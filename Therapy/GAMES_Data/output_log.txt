@@ -1,0 +1,4386 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon HD 7800 Series (ID=0x679e)
+    Vendor:   ATI
+    VRAM:     2029 MB
+    Driver:   22.19.162.4
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Oisin\Documents\Therapy-Rational-Problems\Therapy\GAMES_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Oisin\Documents\Therapy-Rational-Problems\Therapy\GAMES_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Oisin\Documents\Therapy-Rational-Problems\Therapy\GAMES_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Oisin\Documents\Therapy-Rational-Problems\Therapy\GAMES_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Oisin\Documents\Therapy-Rational-Problems\Therapy\GAMES_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Oisin\Documents\Therapy-Rational-Problems\Therapy\GAMES_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Oisin\Documents\Therapy-Rational-Problems\Therapy\GAMES_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Oisin\Documents\Therapy-Rational-Problems\Therapy\GAMES_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Oisin\Documents\Therapy-Rational-Problems\Therapy\GAMES_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Oisin\Documents\Therapy-Rational-Problems\Therapy\GAMES_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.021 seconds
+Platform assembly: C:\Users\Oisin\Documents\Therapy-Rational-Problems\Therapy\GAMES_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Oisin\Documents\Therapy-Rational-Problems\Therapy\GAMES_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.099831 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1bfc -> priority: 1 
+  Thread -> id: 1d38 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.087344 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 733.
+Total: 4.092769 ms (FindLiveObjects: 0.037439 ms CreateObjectMapping: 0.025279 ms MarkObjects: 0.249598 ms  DeleteObjects: 3.780132 ms)
+
+Button1Pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+correct
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1toBlue
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Button2Pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+correct
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2toBlue
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Button4Pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+correct
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4toBlue
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Button5Pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+correct
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+5toBlue
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+button3Pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wrong
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Update4, changetoGrey
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Update5, changetoGrey
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Update1, changetoGrey
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Update2, changetoGrey
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Button2Pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wrong
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Button1Pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+correct
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1toBlue
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Button2Pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+correct
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2toBlue
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Button4Pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+correct
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4toBlue
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Button5Pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+correct
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+5toBlue
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Button6Pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+correct
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+6toBlue
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+button3Pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+correct
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3toBlue
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Opening Door...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.679994 ms
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 731.
+Total: 4.178529 ms (FindLiveObjects: 0.051199 ms CreateObjectMapping: 0.055679 ms MarkObjects: 0.197438 ms  DeleteObjects: 3.873891 ms)
+
+Opening Door...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Light:INTERNAL_set_color (UnityEngine.Color&)
+  at UnityEngine.Light.set_color (Color value) [0x00000] in <filename unknown>:0 
+  at Puzzle1Script.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.611835 ms
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 903.
+Total: 0.504316 ms (FindLiveObjects: 0.062079 ms CreateObjectMapping: 0.024959 ms MarkObjects: 0.179518 ms  DeleteObjects: 0.236798 ms)
+
+Collide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.665595 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 903.
+Total: 0.312637 ms (FindLiveObjects: 0.063999 ms CreateObjectMapping: 0.025919 ms MarkObjects: 0.217918 ms  DeleteObjects: 0.004479 ms)
+
+Collide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.672635 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 903.
+Total: 0.374397 ms (FindLiveObjects: 0.061439 ms CreateObjectMapping: 0.054079 ms MarkObjects: 0.254078 ms  DeleteObjects: 0.004159 ms)
+
