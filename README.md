@@ -1,5 +1,5 @@
 # Therapy-Rational-Problems
-A First Person Puzzle game made using Unity and Blender.
+A First Person Puzzle game prototype made using Unity and Blender.
 
 Premise: 
 Advance from room to room solving unique puzzles whilst under pressure. Achieve clarity.
