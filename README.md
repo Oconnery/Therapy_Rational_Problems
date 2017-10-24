@@ -5,13 +5,14 @@ Premise:
 Advance from room to room solving unique puzzles whilst under pressure. Achieve clarity.
 Art Style: Simplistic, clean, misleading.
 
-Controls: WASD to move, mouse to move the camera, E to interact, Q - Secondary interact.
+Controls: 
+- WASD to move
+- Mouse to move the camera \
+- E to interact 
+- Q to secondary interact.
 
 
-
-
-
-
+///////////////////////////////////////////////////////////////////////////////////
 
 Made By: Oisin Connery, Calum Hoy and Paul McQuaid
 
